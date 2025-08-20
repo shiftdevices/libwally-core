@@ -3,7 +3,7 @@
 
 #include "ccan/ccan/build_assert/build_assert.h"
 #include "ctaes/ctaes.h"
-#include "ctaes/ctaes.c"
+//#include "ctaes/ctaes.c"
 
 #define ALL_OPS (AES_FLAG_ENCRYPT | AES_FLAG_DECRYPT)
 
